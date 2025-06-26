@@ -12,7 +12,10 @@ Welcome to **Wafu Catcher Bot**! A fun and interactive bot that lets you **colle
 - 🏅 **Achievements** - Unlock rare badges for special milestones.
 - 🛒 **Shop & Upgrades** - Buy items to boost your waifu collection.
 
----
+# YouTubeMusic
+
+## 🚀 Deploy on Heroku 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Silenthrax/WAIFU)
 
 ## 🚀 Installation Guide
 
